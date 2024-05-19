@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../traversy-edgeledger-website/js"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "finance-website"
+  }
+}
