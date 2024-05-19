@@ -2,7 +2,7 @@
 
 Welcome to the Finance Solutions website repository! This project is a responsive, multi-section website designed for a financial services company. The website includes sections for Home, About, Cases, Blog, Team, and Contact.
 
-![Finance Solutions Website](images/shot.jpg)
+![Finance Solutions Website](images/shot.JPG)
 
 ## Table of Contents
 
