@@ -9,11 +9,7 @@ Welcome to the Finance Solutions website repository! This project is a responsiv
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Project Overview
 
@@ -34,3 +30,6 @@ The Finance Solutions website aims to provide a professional and modern web pres
 - **JavaScript**: For interactive elements and smooth scrolling.
 - **Font Awesome**: For icons.
 - **Responsive Design Techniques**: Ensures the site is mobile-friendly.
+
+
+## live website ("https://hanan1413.github.io/finance-solutions/")
